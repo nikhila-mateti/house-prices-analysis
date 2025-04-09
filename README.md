@@ -7,10 +7,7 @@ This project is an interactive data visualization dashboard built using Preswald
 - [Overview](#overview)
 - [Dataset](#dataset)
 - [Key Functionalities](#key-functionalities)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [License](#license)
+
 
 ## Overview
 
