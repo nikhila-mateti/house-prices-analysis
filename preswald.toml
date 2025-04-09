@@ -1,0 +1,20 @@
+[project]
+title = "Preswald Project"
+version = "0.1.0"
+port = 8501
+slug = "my-project-613937"  
+entrypoint = "hello.py"    
+
+[branding]
+name = "Nikhila's Preswald Project"
+logo = "images/houseLogo.png"
+favicon = "images/favicon.ico"
+primaryColor = "#F89613"
+
+[data.train]
+type = "csv"
+path = "data/train.csv"
+
+[logging]
+level = "INFO"  
+format = "%(asctime)s - %(name)s - %(levelname)s - %(message)s"

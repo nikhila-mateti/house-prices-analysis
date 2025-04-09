@@ -1,0 +1,6 @@
+secrets.toml
+.preswald_deploy
+.env.structured
+venv/
+__pycache__/
+*.pyc
